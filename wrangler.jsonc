@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "moalem-tabas-insurance2",
+  "name": "moalem-tabas-insurance3",
+  "main": "server.js",
   "compatibility_date": "2026-08-15",
   "assets": {
     "directory": "./public",
